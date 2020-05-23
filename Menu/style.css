@@ -1,0 +1,12 @@
+.full_menu {
+  display: flex;
+  justify-content: center;
+}
+
+.menu {
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 5px pink;
+  margin: 1rem;
+  padding: 1.5rem;
+}
